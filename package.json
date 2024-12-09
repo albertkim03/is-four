@@ -1,0 +1,22 @@
+{
+  "name": "is-four",
+  "version": "1.0.0",
+  "description": "Check if a number is equal to 4.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertkim03/is-four.git"
+  },
+  "keywords": [
+    "isFour"
+  ],
+  "author": "albertkim03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertkim03/is-four/issues"
+  },
+  "homepage": "https://github.com/albertkim03/is-four#readme"
+}
