@@ -1,6 +1,6 @@
 {
   "name": "is-four",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if a number is equal to 4.",
   "main": "index.js",
   "scripts": {
